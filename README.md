@@ -1,4 +1,4 @@
-# 💼 Project Portfolio — Gustavo Santos
+# 💼 Gustavo Santos - Project Portfolio
 
 **Supply Chain · Lean Manufacturing · Automation · Applied AI**
 
@@ -16,20 +16,21 @@ This repository holds the **technical documentation** of the projects I build in
 
 | Project | Main tool | Technologies | Status |
 |---|---|---|---|
-| **Procurement Follow-Up** | Power BI | `API` `OneLake` `Power Query` `Power BI` `Star Schema` | 🚧 Coming soon |
-| **MRO Reservations** | Power Apps | `Power Apps` `Canvas` `Power Automate` `Forms` `Excel` | 🚧 Coming soon |
-| **Daily priorities in Teams** | Power Automate | `Power Automate` `Power BI` `Power Apps` `API` `Teams` | 🚧 Coming soon |
-| **Capacity & planning model** | Excel & Power Query | `Excel` `Power Query` `SAP` `MRP` `Forecast` | 🚧 Coming soon |
+| **Procurement Follow-Up** | Power BI | `API` `OneLake` `Power Query` `Power BI` | 🚧 Coming soon |
+| **MRO Reservations** | Power Apps | `Power Apps` `Power Automate` `Forms` `Excel` | 🚧 Coming soon |
+| **Daily priorities in Teams** | Power Automate | `Power Automate` `Power BI` `Power Apps` `Teams` | 🚧 Coming soon |
+| **Capacity & planning model** | Excel & SAP | `Excel` `Power Query` `SAP` `Forecast` | 🚧 Coming soon |
 
 ---
 
 ## 🧰 Stack
 
-**Automation:** Power Automate · Power Apps · Python
-**Data:** Power Query (M) · SQL · Advanced Excel
-**Visualization:** Power BI · OneLake
-**Integration:** REST APIs · SAP
-**AI:** classification, forecasting and data analysis applied to processes
+**Automation:** Power Automate · Power Apps · Python <br>
+**Data:** Power Query (M) · SQL · Excel · OneLake <br>
+**Visualization:** Power BI <br>
+**Integration:** REST APIs · SAP · Forecast Tool <br>
+**AI:** Classification, Forecasting and Data Analysis applied to processes <br>
+**AI tools:** Claude Code · GitHub Copilot · Microsoft Copilot
 
 ---
 
