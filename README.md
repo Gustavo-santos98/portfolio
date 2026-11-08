@@ -1,6 +1,6 @@
 # 💼 Project Portfolio — Gustavo Santos
 
-**Supply Chain · Automation · Applied AI**
+**Supply Chain · Lean Manufacturing · Automation · Applied AI**
 
 🔗 Full portfolio: **[gustavo-santos98.github.io](https://gustavo-santos98.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/gustavotsantos/)
 
